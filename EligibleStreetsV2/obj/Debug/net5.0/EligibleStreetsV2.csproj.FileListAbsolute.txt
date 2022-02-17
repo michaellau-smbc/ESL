@@ -1,0 +1,16 @@
+C:\Users\michael.lau\source\repos\EligibleStreetsV2\EligibleStreetsV2\bin\Debug\net5.0\EligibleStreetsV2.exe
+C:\Users\michael.lau\source\repos\EligibleStreetsV2\EligibleStreetsV2\bin\Debug\net5.0\EligibleStreetsV2.deps.json
+C:\Users\michael.lau\source\repos\EligibleStreetsV2\EligibleStreetsV2\bin\Debug\net5.0\EligibleStreetsV2.runtimeconfig.json
+C:\Users\michael.lau\source\repos\EligibleStreetsV2\EligibleStreetsV2\bin\Debug\net5.0\EligibleStreetsV2.runtimeconfig.dev.json
+C:\Users\michael.lau\source\repos\EligibleStreetsV2\EligibleStreetsV2\bin\Debug\net5.0\EligibleStreetsV2.dll
+C:\Users\michael.lau\source\repos\EligibleStreetsV2\EligibleStreetsV2\bin\Debug\net5.0\ref\EligibleStreetsV2.dll
+C:\Users\michael.lau\source\repos\EligibleStreetsV2\EligibleStreetsV2\bin\Debug\net5.0\EligibleStreetsV2.pdb
+C:\Users\michael.lau\source\repos\EligibleStreetsV2\EligibleStreetsV2\obj\Debug\net5.0\EligibleStreetsV2.csproj.AssemblyReference.cache
+C:\Users\michael.lau\source\repos\EligibleStreetsV2\EligibleStreetsV2\obj\Debug\net5.0\EligibleStreetsV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michael.lau\source\repos\EligibleStreetsV2\EligibleStreetsV2\obj\Debug\net5.0\EligibleStreetsV2.AssemblyInfoInputs.cache
+C:\Users\michael.lau\source\repos\EligibleStreetsV2\EligibleStreetsV2\obj\Debug\net5.0\EligibleStreetsV2.AssemblyInfo.cs
+C:\Users\michael.lau\source\repos\EligibleStreetsV2\EligibleStreetsV2\obj\Debug\net5.0\EligibleStreetsV2.csproj.CoreCompileInputs.cache
+C:\Users\michael.lau\source\repos\EligibleStreetsV2\EligibleStreetsV2\obj\Debug\net5.0\EligibleStreetsV2.dll
+C:\Users\michael.lau\source\repos\EligibleStreetsV2\EligibleStreetsV2\obj\Debug\net5.0\ref\EligibleStreetsV2.dll
+C:\Users\michael.lau\source\repos\EligibleStreetsV2\EligibleStreetsV2\obj\Debug\net5.0\EligibleStreetsV2.pdb
+C:\Users\michael.lau\source\repos\EligibleStreetsV2\EligibleStreetsV2\obj\Debug\net5.0\EligibleStreetsV2.genruntimeconfig.cache
