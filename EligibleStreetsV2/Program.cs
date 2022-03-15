@@ -34,19 +34,7 @@ namespace EligibleStreetsApp
                 }
                 else if (line.Contains("POSTCODE"))
                 {
-                    var rawData = line.Replace("\"POSTCODE\": \"", "");
-
-                    if (rawData.Trim().StartsWith("\\t"))
-                    {
-                        var rawPostCode = rawData.Trim().Remove(0, 3);
-                        var newString = $"    \"POSTCODE\": \"{rawPostCode.Trim()}";
-
-                        newData.Add(newString);
-                    }
-                    else
-                    {
-                        newData.Add(line);
-                    }
+                    RemoveSpaceFromPostcode(newData, line);
                 }
                 else
                 {
@@ -58,6 +46,23 @@ namespace EligibleStreetsApp
             File.WriteAllLines(newFilePath, newData);
             Console.WriteLine("Created!");
             Console.ReadLine();
+        }
+
+        private static void RemoveSpaceFromPostcode(List<string> newData, string line)
+        {
+            var rawData = line.Replace("\"POSTCODE\": \"", "");
+
+            if (rawData.Trim().StartsWith("\\t"))
+            {
+                var rawPostCode = rawData.Trim().Remove(0, 2);
+                var newString = $"    \"POSTCODE\": \"{rawPostCode.Trim()}";
+
+                newData.Add(newString);
+            }
+            else
+            {
+                newData.Add(line);
+            }
         }
 
         private static void ModifyEntitlement(List<string> newData, string line)
