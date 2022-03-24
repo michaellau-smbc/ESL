@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UokJSZJQcaZ+oBXzmmBM7Wq4gdmbe+/UVb9UwwDHq6KPk7aHaLFcgkw/xOLzp+2YWmUvaSflQyAvnG+nHmOt7A==",
+  "dgSpecHash": "Hm7X9HqXD4gzgfasMx91aUkCs0EcZUGlSj49BpsIEHNXlj4fUdOBtKSHm0o9YzKDMqmR9exyXH2LLIFEaCdyuQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\michael.lau\\source\\repos\\EligibleStreetsV2\\EligibleStreetsV2\\EligibleStreetsV2.csproj",
+  "projectFilePath": "C:\\Code\\ESL\\EligibleStreetsV2\\EligibleStreetsV2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\michael.lau\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
   ],

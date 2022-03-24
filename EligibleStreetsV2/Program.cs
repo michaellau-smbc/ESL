@@ -30,7 +30,14 @@ namespace EligibleStreetsApp
                 }
                 else if (line.Contains("Entitlement"))
                 {
-                    ModifyEntitlement(newData, line);
+                    if (line.Contains("Amended Entitlement"))
+                    {
+                        newData.Add(line);
+                    }
+                    else
+                    {
+                        ModifyEntitlement(newData, line);
+                    }
                 }
                 else if (line.Contains("POSTCODE"))
                 {

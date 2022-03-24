@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\michael.lau\\source\\repos\\EligibleStreetsV2\\EligibleStreetsV2\\EligibleStreetsV2.csproj": {}
+    "C:\\Code\\ESL\\EligibleStreetsV2\\EligibleStreetsV2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\michael.lau\\source\\repos\\EligibleStreetsV2\\EligibleStreetsV2\\EligibleStreetsV2.csproj": {
+    "C:\\Code\\ESL\\EligibleStreetsV2\\EligibleStreetsV2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\michael.lau\\source\\repos\\EligibleStreetsV2\\EligibleStreetsV2\\EligibleStreetsV2.csproj",
+        "projectUniqueName": "C:\\Code\\ESL\\EligibleStreetsV2\\EligibleStreetsV2.csproj",
         "projectName": "EligibleStreetsV2",
-        "projectPath": "C:\\Users\\michael.lau\\source\\repos\\EligibleStreetsV2\\EligibleStreetsV2\\EligibleStreetsV2.csproj",
+        "projectPath": "C:\\Code\\ESL\\EligibleStreetsV2\\EligibleStreetsV2.csproj",
         "packagesPath": "C:\\Users\\michael.lau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\michael.lau\\source\\repos\\EligibleStreetsV2\\EligibleStreetsV2\\obj\\",
+        "outputPath": "C:\\Code\\ESL\\EligibleStreetsV2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
